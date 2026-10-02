@@ -5,8 +5,71 @@
   <link href="https://cuihuan.github.io/awesome-ai-gateway/" />
   <link rel="self" type="application/atom+xml" href="https://cuihuan.github.io/awesome-ai-gateway/feed.xml" />
   <id>https://cuihuan.github.io/awesome-ai-gateway/feed.xml</id>
-  <updated>2026-10-01T06:37:31Z</updated>
+  <updated>2026-10-02T06:45:01Z</updated>
   <author><name>Awesome AI Gateway</name></author>
+  <entry>
+    <title>Wei-Shaw/sub2api v0.2.12</title>
+    <link href="https://github.com/Wei-Shaw/sub2api/releases/tag/v0.2.12" />
+    <id>https://github.com/Wei-Shaw/sub2api/releases/tag/v0.2.12</id>
+    <updated>2026-10-02T06:45:01Z</updated>
+    <summary>Wei-Shaw/sub2api released Sub2API 0.2.12.</summary>
+  </entry>
+  <entry>
+    <title>tsouth89/toolport v1.23.4</title>
+    <link href="https://github.com/btsouth/toolport/releases/tag/v1.23.4" />
+    <id>https://github.com/btsouth/toolport/releases/tag/v1.23.4</id>
+    <updated>2026-10-02T06:19:51Z</updated>
+    <summary>tsouth89/toolport released Toolport v1.23.4.</summary>
+  </entry>
+  <entry>
+    <title>askalf/dario v6.12.20</title>
+    <link href="https://github.com/askalf/dario/releases/tag/v6.12.20" />
+    <id>https://github.com/askalf/dario/releases/tag/v6.12.20</id>
+    <updated>2026-10-02T06:16:13Z</updated>
+    <summary>askalf/dario released v6.12.20.</summary>
+  </entry>
+  <entry>
+    <title>router-for-me/CLIProxyAPI v8.0.10</title>
+    <link href="https://github.com/router-for-me/CLIProxyAPI/releases/tag/v8.0.10" />
+    <id>https://github.com/router-for-me/CLIProxyAPI/releases/tag/v8.0.10</id>
+    <updated>2026-10-02T03:05:13Z</updated>
+    <summary>router-for-me/CLIProxyAPI released v8.0.10.</summary>
+  </entry>
+  <entry>
+    <title>archestra-ai/archestra platform-v1.3.68</title>
+    <link href="https://github.com/archestra-ai/archestra/releases/tag/platform-v1.3.68" />
+    <id>https://github.com/archestra-ai/archestra/releases/tag/platform-v1.3.68</id>
+    <updated>2026-10-02T02:17:27Z</updated>
+    <summary>archestra-ai/archestra released platform: v1.3.68.</summary>
+  </entry>
+  <entry>
+    <title>RelayPlane/proxy v1.9.70</title>
+    <link href="https://github.com/RelayPlane/proxy/releases/tag/v1.9.70" />
+    <id>https://github.com/RelayPlane/proxy/releases/tag/v1.9.70</id>
+    <updated>2026-10-01T16:26:24Z</updated>
+    <summary>RelayPlane/proxy released v1.9.70.</summary>
+  </entry>
+  <entry>
+    <title>mozilla-ai/otari v0.14.1</title>
+    <link href="https://github.com/mozilla-ai/otari/releases/tag/v0.14.1" />
+    <id>https://github.com/mozilla-ai/otari/releases/tag/v0.14.1</id>
+    <updated>2026-10-01T15:13:17Z</updated>
+    <summary>mozilla-ai/otari released v0.14.1.</summary>
+  </entry>
+  <entry>
+    <title>caozhiyuan/copilot-api v2.6.24</title>
+    <link href="https://github.com/caozhiyuan/copilot-api/releases/tag/v2.6.24" />
+    <id>https://github.com/caozhiyuan/copilot-api/releases/tag/v2.6.24</id>
+    <updated>2026-10-01T13:16:46Z</updated>
+    <summary>caozhiyuan/copilot-api released v2.6.24.</summary>
+  </entry>
+  <entry>
+    <title>tbphp/gpt-load v2.0.0-rc.40</title>
+    <link href="https://github.com/tbphp/gpt-load/releases/tag/v2.0.0-rc.40" />
+    <id>https://github.com/tbphp/gpt-load/releases/tag/v2.0.0-rc.40</id>
+    <updated>2026-10-01T09:40:47Z</updated>
+    <summary>tbphp/gpt-load released v2.0.0-rc.40.</summary>
+  </entry>
   <entry>
     <title>BerriAI/litellm v1.103.2</title>
     <link href="https://github.com/BerriAI/litellm/releases/tag/v1.103.2" />
@@ -22,32 +85,11 @@
     <summary>lidge-jun/opencodex released v2.75.0.</summary>
   </entry>
   <entry>
-    <title>router-for-me/CLIProxyAPI v8.0.8</title>
-    <link href="https://github.com/router-for-me/CLIProxyAPI/releases/tag/v8.0.8" />
-    <id>https://github.com/router-for-me/CLIProxyAPI/releases/tag/v8.0.8</id>
-    <updated>2026-10-01T03:33:40Z</updated>
-    <summary>router-for-me/CLIProxyAPI released v8.0.8.</summary>
-  </entry>
-  <entry>
     <title>mnfst/manifest manifest@6.28.1</title>
     <link href="https://github.com/mnfst/llm-gateway/releases/tag/manifest%406.28.1" />
     <id>https://github.com/mnfst/llm-gateway/releases/tag/manifest%406.28.1</id>
     <updated>2026-10-01T02:40:08Z</updated>
     <summary>mnfst/manifest released manifest v6.28.1.</summary>
-  </entry>
-  <entry>
-    <title>archestra-ai/archestra platform-v1.3.67</title>
-    <link href="https://github.com/archestra-ai/archestra/releases/tag/platform-v1.3.67" />
-    <id>https://github.com/archestra-ai/archestra/releases/tag/platform-v1.3.67</id>
-    <updated>2026-09-30T21:29:51Z</updated>
-    <summary>archestra-ai/archestra released platform: v1.3.67.</summary>
-  </entry>
-  <entry>
-    <title>askalf/dario v6.12.15</title>
-    <link href="https://github.com/askalf/dario/releases/tag/v6.12.15" />
-    <id>https://github.com/askalf/dario/releases/tag/v6.12.15</id>
-    <updated>2026-09-30T19:00:40Z</updated>
-    <summary>askalf/dario released v6.12.15.</summary>
   </entry>
   <entry>
     <title>tashfeenahmed/freellmapi v0.13.3</title>
@@ -85,25 +127,11 @@
     <summary>oomol-lab/open-connector released v1.8.0.</summary>
   </entry>
   <entry>
-    <title>Wei-Shaw/sub2api v0.2.11</title>
-    <link href="https://github.com/Wei-Shaw/sub2api/releases/tag/v0.2.11" />
-    <id>https://github.com/Wei-Shaw/sub2api/releases/tag/v0.2.11</id>
-    <updated>2026-09-30T07:06:51Z</updated>
-    <summary>Wei-Shaw/sub2api released Sub2API 0.2.11.</summary>
-  </entry>
-  <entry>
     <title>bestruirui/octopus v0.13.9</title>
     <link href="https://github.com/bestruirui/octopus/releases/tag/v0.13.9" />
     <id>https://github.com/bestruirui/octopus/releases/tag/v0.13.9</id>
     <updated>2026-09-30T03:12:09Z</updated>
     <summary>bestruirui/octopus released v0.13.9.</summary>
-  </entry>
-  <entry>
-    <title>tbphp/gpt-load v2.0.0-rc.38</title>
-    <link href="https://github.com/tbphp/gpt-load/releases/tag/v2.0.0-rc.38" />
-    <id>https://github.com/tbphp/gpt-load/releases/tag/v2.0.0-rc.38</id>
-    <updated>2026-09-30T02:58:39Z</updated>
-    <summary>tbphp/gpt-load released v2.0.0-rc.38.</summary>
   </entry>
   <entry>
     <title>kittors/CliRelay v0.5.6</title>
@@ -127,25 +155,11 @@
     <summary>vllm-project/production-stack released vllm-stack-0.1.13.</summary>
   </entry>
   <entry>
-    <title>caozhiyuan/copilot-api v2.6.23</title>
-    <link href="https://github.com/caozhiyuan/copilot-api/releases/tag/v2.6.23" />
-    <id>https://github.com/caozhiyuan/copilot-api/releases/tag/v2.6.23</id>
-    <updated>2026-09-29T21:26:23Z</updated>
-    <summary>caozhiyuan/copilot-api released v2.6.23.</summary>
-  </entry>
-  <entry>
     <title>maximhq/bifrost ent-v2.2.4-base</title>
     <link href="https://github.com/maximhq/bifrost/releases/tag/ent-v2.2.4-base" />
     <id>https://github.com/maximhq/bifrost/releases/tag/ent-v2.2.4-base</id>
     <updated>2026-09-29T19:12:38Z</updated>
     <summary>maximhq/bifrost released Enterprise v2.2.4 base release.</summary>
-  </entry>
-  <entry>
-    <title>mozilla-ai/otari v0.13.0</title>
-    <link href="https://github.com/mozilla-ai/otari/releases/tag/v0.13.0" />
-    <id>https://github.com/mozilla-ai/otari/releases/tag/v0.13.0</id>
-    <updated>2026-09-29T19:10:55Z</updated>
-    <summary>mozilla-ai/otari released v0.13.0.</summary>
   </entry>
   <entry>
     <title>BlockRunAI/ClawRouter v0.12.280</title>
@@ -155,25 +169,11 @@
     <summary>BlockRunAI/ClawRouter released v0.12.280 — @solana/kit 8.4 at +2.3% bundle, nemotron-3-nano-30b out, numbers match the catalog.</summary>
   </entry>
   <entry>
-    <title>RelayPlane/proxy v1.9.69</title>
-    <link href="https://github.com/RelayPlane/proxy/releases/tag/v1.9.69" />
-    <id>https://github.com/RelayPlane/proxy/releases/tag/v1.9.69</id>
-    <updated>2026-09-29T07:58:16Z</updated>
-    <summary>RelayPlane/proxy released v1.9.69.</summary>
-  </entry>
-  <entry>
     <title>deanxv/done-hub v1.23.22</title>
     <link href="https://github.com/deanxv/done-hub/releases/tag/v1.23.22" />
     <id>https://github.com/deanxv/done-hub/releases/tag/v1.23.22</id>
     <updated>2026-09-29T06:03:08Z</updated>
     <summary>deanxv/done-hub released v1.23.22.</summary>
-  </entry>
-  <entry>
-    <title>tsouth89/toolport v1.23.3</title>
-    <link href="https://github.com/btsouth/toolport/releases/tag/v1.23.3" />
-    <id>https://github.com/btsouth/toolport/releases/tag/v1.23.3</id>
-    <updated>2026-09-29T05:34:07Z</updated>
-    <summary>tsouth89/toolport released Toolport v1.23.3.</summary>
   </entry>
   <entry>
     <title>fruitbars/simple-one-api v0.13.0</title>
