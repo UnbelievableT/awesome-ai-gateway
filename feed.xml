@@ -5,8 +5,50 @@
   <link href="https://cuihuan.github.io/awesome-ai-gateway/" />
   <link rel="self" type="application/atom+xml" href="https://cuihuan.github.io/awesome-ai-gateway/feed.xml" />
   <id>https://cuihuan.github.io/awesome-ai-gateway/feed.xml</id>
-  <updated>2026-10-04T03:53:25Z</updated>
+  <updated>2026-10-05T03:36:43Z</updated>
   <author><name>Awesome AI Gateway</name></author>
+  <entry>
+    <title>caozhiyuan/copilot-api v2.7.0</title>
+    <link href="https://github.com/caozhiyuan/copilot-api/releases/tag/v2.7.0" />
+    <id>https://github.com/caozhiyuan/copilot-api/releases/tag/v2.7.0</id>
+    <updated>2026-10-05T03:36:43Z</updated>
+    <summary>caozhiyuan/copilot-api released v2.7.0.</summary>
+  </entry>
+  <entry>
+    <title>router-for-me/CLIProxyAPI v8.0.15</title>
+    <link href="https://github.com/router-for-me/CLIProxyAPI/releases/tag/v8.0.15" />
+    <id>https://github.com/router-for-me/CLIProxyAPI/releases/tag/v8.0.15</id>
+    <updated>2026-10-04T22:29:27Z</updated>
+    <summary>router-for-me/CLIProxyAPI released v8.0.15.</summary>
+  </entry>
+  <entry>
+    <title>askalf/dario v6.12.25</title>
+    <link href="https://github.com/askalf/dario/releases/tag/v6.12.25" />
+    <id>https://github.com/askalf/dario/releases/tag/v6.12.25</id>
+    <updated>2026-10-04T22:01:39Z</updated>
+    <summary>askalf/dario released v6.12.25.</summary>
+  </entry>
+  <entry>
+    <title>higress-group/higress v2.2.5</title>
+    <link href="https://github.com/higress-group/higress/releases/tag/v2.2.5" />
+    <id>https://github.com/higress-group/higress/releases/tag/v2.2.5</id>
+    <updated>2026-10-04T19:46:14Z</updated>
+    <summary>higress-group/higress released v2.2.5.</summary>
+  </entry>
+  <entry>
+    <title>agentic-community/mcp-gateway-registry 1.32.0</title>
+    <link href="https://github.com/agentic-community/mcp-gateway-registry/releases/tag/1.32.0" />
+    <id>https://github.com/agentic-community/mcp-gateway-registry/releases/tag/1.32.0</id>
+    <updated>2026-10-04T17:26:35Z</updated>
+    <summary>agentic-community/mcp-gateway-registry released 1.32.0 - Forward-Proxy Egress, Ingress Hostnames, and a Login Regression Fix.</summary>
+  </entry>
+  <entry>
+    <title>tbphp/gpt-load v2.0.0-rc.43</title>
+    <link href="https://github.com/tbphp/gpt-load/releases/tag/v2.0.0-rc.43" />
+    <id>https://github.com/tbphp/gpt-load/releases/tag/v2.0.0-rc.43</id>
+    <updated>2026-10-04T13:18:29Z</updated>
+    <summary>tbphp/gpt-load released v2.0.0-rc.43.</summary>
+  </entry>
   <entry>
     <title>seakee/CPA-Manager-Plus v1.14.3</title>
     <link href="https://github.com/seakee/CPA-Manager-Plus/releases/tag/v1.14.3" />
@@ -29,20 +71,6 @@
     <summary>lidge-jun/opencodex released v2.77.0.</summary>
   </entry>
   <entry>
-    <title>caozhiyuan/copilot-api v2.6.29</title>
-    <link href="https://github.com/caozhiyuan/copilot-api/releases/tag/v2.6.29" />
-    <id>https://github.com/caozhiyuan/copilot-api/releases/tag/v2.6.29</id>
-    <updated>2026-10-04T02:31:33Z</updated>
-    <summary>caozhiyuan/copilot-api released v2.6.29.</summary>
-  </entry>
-  <entry>
-    <title>askalf/dario v6.12.24</title>
-    <link href="https://github.com/askalf/dario/releases/tag/v6.12.24" />
-    <id>https://github.com/askalf/dario/releases/tag/v6.12.24</id>
-    <updated>2026-10-03T23:39:00Z</updated>
-    <summary>askalf/dario released v6.12.24.</summary>
-  </entry>
-  <entry>
     <title>BerriAI/litellm v1.104.0</title>
     <link href="https://github.com/BerriAI/litellm/releases/tag/v1.104.0" />
     <id>https://github.com/BerriAI/litellm/releases/tag/v1.104.0</id>
@@ -55,13 +83,6 @@
     <id>https://github.com/tashfeenahmed/freellmapi/releases/tag/v0.13.4</id>
     <updated>2026-10-03T11:51:56Z</updated>
     <summary>tashfeenahmed/freellmapi released v0.13.4 — Gizmo and BlockRun providers.</summary>
-  </entry>
-  <entry>
-    <title>router-for-me/CLIProxyAPI v8.0.13</title>
-    <link href="https://github.com/router-for-me/CLIProxyAPI/releases/tag/v8.0.13" />
-    <id>https://github.com/router-for-me/CLIProxyAPI/releases/tag/v8.0.13</id>
-    <updated>2026-10-03T09:02:46Z</updated>
-    <summary>router-for-me/CLIProxyAPI released v8.0.13.</summary>
   </entry>
   <entry>
     <title>romgX/openrelay v0.10.68</title>
@@ -141,13 +162,6 @@
     <summary>Wei-Shaw/sub2api released Sub2API 0.2.13.</summary>
   </entry>
   <entry>
-    <title>tbphp/gpt-load v2.0.0-rc.41</title>
-    <link href="https://github.com/tbphp/gpt-load/releases/tag/v2.0.0-rc.41" />
-    <id>https://github.com/tbphp/gpt-load/releases/tag/v2.0.0-rc.41</id>
-    <updated>2026-10-02T10:03:01Z</updated>
-    <summary>tbphp/gpt-load released v2.0.0-rc.41.</summary>
-  </entry>
-  <entry>
     <title>RelayPlane/proxy v1.9.70</title>
     <link href="https://github.com/RelayPlane/proxy/releases/tag/v1.9.70" />
     <id>https://github.com/RelayPlane/proxy/releases/tag/v1.9.70</id>
@@ -202,19 +216,5 @@
     <id>https://github.com/diegosouzapw/OmniRoute/releases/tag/v3.8.51</id>
     <updated>2026-09-30T01:41:50Z</updated>
     <summary>diegosouzapw/OmniRoute released v3.8.51.</summary>
-  </entry>
-  <entry>
-    <title>vllm-project/production-stack vllm-stack-0.1.13</title>
-    <link href="https://github.com/vllm-project/production-stack/releases/tag/vllm-stack-0.1.13" />
-    <id>https://github.com/vllm-project/production-stack/releases/tag/vllm-stack-0.1.13</id>
-    <updated>2026-09-29T23:48:34Z</updated>
-    <summary>vllm-project/production-stack released vllm-stack-0.1.13.</summary>
-  </entry>
-  <entry>
-    <title>deanxv/done-hub v1.23.22</title>
-    <link href="https://github.com/deanxv/done-hub/releases/tag/v1.23.22" />
-    <id>https://github.com/deanxv/done-hub/releases/tag/v1.23.22</id>
-    <updated>2026-09-29T06:03:08Z</updated>
-    <summary>deanxv/done-hub released v1.23.22.</summary>
   </entry>
 </feed>
